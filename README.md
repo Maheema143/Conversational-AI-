@@ -14,25 +14,9 @@ A smart conversational AI bot built with **Google Gemini API** and **Streamlit**
 - 🌈 Styled UI with emojis and chat bubbles
 - 🔁 Built-in **rate limiter** to handle API limits
 
----
-
-## 🚀 Live Demo
-
-Coming soon... (Optional: Add Streamlit Cloud or HuggingFace link)
-
----
 
 ## 📸 Preview
 
 ![ChatBot UI Screenshot](task1.PNG) <!-- Replace with actual image path if available -->
 
----
-
-## 🛠️ Tech Stack
-
-- [Streamlit](https://streamlit.io/)
-- [Google Generative AI (Gemini)](https://ai.google.dev/)
-- Python 3.x
-
----
 

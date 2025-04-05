@@ -24,7 +24,7 @@ Coming soon... (Optional: Add Streamlit Cloud or HuggingFace link)
 
 ## 📸 Preview
 
-![ChatBot UI Screenshot](task1.png) <!-- Replace with actual image path if available -->
+![ChatBot UI Screenshot](task1.PNG) <!-- Replace with actual image path if available -->
 
 ---
 
